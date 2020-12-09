@@ -1,2 +1,2 @@
 # MMAO
- Exercícios da disciplina de Métodos Matemáticos Aplicados a Oeanografia.
+ Neste conjunto de exercícios são aplicados alguns métodos estatísticos e matemáticos utilizados para a análise de dados oceanográficos. Alguns métodos utilizados: matriz covariância, PCA, transformada de fourier, entre outros.
